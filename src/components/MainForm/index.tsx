@@ -11,12 +11,12 @@ export function MainForm() {
             labelText="Task"
             id="meuInput"
             type="text"
-            placeholder="Digite aqui"
+            placeholder="Digite algo"
           />
         </div>
 
         <div className="formRow">
-          <p>Lorem ipsum dolor sit amet.</p>
+          <p>O próximo intervalo é de 25 min.</p>
         </div>
 
         <div className="formRow">
